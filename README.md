@@ -1,2 +1,2 @@
-# ecc-brute-force
-Example of using brute-force attack to break an Elliptic Curve (cryptography)
+# Brute-force attack on ECC
+Example of using brute-force attack to break an Elliptic Curve Cryptography
